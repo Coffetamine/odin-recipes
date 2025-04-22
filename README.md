@@ -1,1 +1,4 @@
 # odin-recipes
+This project looks to display the knowledge acquired in TOP foundations course, HTML Section.
+It should have Links, images and lists.
+It will also provide an instance to use the git workflow and let me introduce myself in the general workflow.
